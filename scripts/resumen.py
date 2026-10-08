@@ -122,6 +122,18 @@ def peso():
     return f"{fmt(num(u['Valor']))} {u['Unidad']} ({u['Fecha']})"
 
 
+def peso_mensual():
+    """Último registro de peso de cada mes (sustituye al gráfico de peso del Panel)."""
+    ultimo = {}
+    for r in sorted(leer("corporal.csv"), key=lambda r: r["Fecha"]):
+        if r["Medida"].lower() == "peso":
+            ultimo[r["Fecha"][:7]] = r
+    out = ["| Mes | Fecha | Peso |", "|---|---|---|"]
+    for mes, r in sorted(ultimo.items()):
+        out.append(f"| {mes} | {r['Fecha']} | {fmt(num(r['Valor']))} {r['Unidad']} |")
+    return out
+
+
 def estado():
     sem = resumen_semanas()
     ultima = max(r["Fecha"] for r in leer("sesiones.csv") if r["Estado"] != "No hecha")
@@ -156,6 +168,12 @@ def estado():
         "## Últimas carreras",
         "",
         *carreras(),
+        "",
+        "## Peso",
+        "",
+        "Último registro de cada mes.",
+        "",
+        *peso_mensual(),
         "",
     ]
     (RAIZ / "estado.md").write_text("\n".join(lineas), encoding="utf-8")

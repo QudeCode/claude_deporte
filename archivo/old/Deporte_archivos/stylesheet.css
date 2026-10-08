@@ -1,0 +1,499 @@
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Aptos Narrow", sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Aptos Narrow", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	color:white;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid #D0D0D0;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid #D0D0D0;
+	background:#747474;
+	mso-pattern:black none;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid #D0D0D0;
+	border-right:.5pt solid white;
+	border-bottom:none;
+	border-left:none;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid #D0D0D0;
+	border-right:.5pt solid white;
+	border-bottom:none;
+	border-left:.5pt solid white;
+	background:#F1A983;
+	mso-pattern:black none;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid #D0D0D0;
+	border-right:.5pt solid white;
+	border-bottom:none;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid #D0D0D0;
+	border-right:1.0pt solid #D0D0D0;
+	border-bottom:.5pt solid white;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl70
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:1.0pt solid #D0D0D0;
+	background:#E8E8E8;
+	mso-pattern:black none;}
+.xl71
+	{mso-style-parent:style0;
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:.5pt solid white;
+	border-left:1.0pt solid #D0D0D0;
+	background:#E8E8E8;
+	mso-pattern:black none;}
+.xl72
+	{mso-style-parent:style0;
+	border-top:.5pt solid white;
+	border-right:1.0pt solid #D0D0D0;
+	border-bottom:.5pt solid white;
+	border-left:.5pt solid white;
+	background:#E8E8E8;
+	mso-pattern:black none;}
+.xl73
+	{mso-style-parent:style0;
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:.5pt solid white;
+	border-left:1.0pt solid #D0D0D0;
+	background:#C0E6F5;
+	mso-pattern:black none;}
+.xl74
+	{mso-style-parent:style0;
+	border-top:.5pt solid white;
+	border-right:1.0pt solid #D0D0D0;
+	border-bottom:.5pt solid white;
+	border-left:.5pt solid white;
+	background:#94DCF8;
+	mso-pattern:black none;}
+.xl75
+	{mso-style-parent:style0;
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:.5pt solid white;
+	border-left:1.0pt solid #D0D0D0;
+	background:#F2CEEF;
+	mso-pattern:black none;}
+.xl76
+	{mso-style-parent:style0;
+	border-top:.5pt solid white;
+	border-right:1.0pt solid #D0D0D0;
+	border-bottom:.5pt solid white;
+	border-left:.5pt solid white;
+	background:#E49EDD;
+	mso-pattern:black none;}
+.xl77
+	{mso-style-parent:style0;
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid #D0D0D0;
+	border-left:1.0pt solid #D0D0D0;
+	background:#C1F0C8;
+	mso-pattern:black none;}
+.xl78
+	{mso-style-parent:style0;
+	border-top:.5pt solid white;
+	border-right:1.0pt solid #D0D0D0;
+	border-bottom:1.0pt solid #D0D0D0;
+	border-left:.5pt solid white;
+	background:#83E28E;
+	mso-pattern:black none;}
+.xl79
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#C1F0C8;
+	mso-pattern:black none;}
+.xl80
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#C1F0C8;
+	mso-pattern:black none;}
+.xl81
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl82
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl83
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:1.0pt solid #D0D0D0;
+	background:#E8E8E8;
+	mso-pattern:black none;}
+.xl84
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#CAEDFB;
+	mso-pattern:black none;}
+.xl85
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl86
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#CAEDFB;
+	mso-pattern:black none;}
+.xl87
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:1.0pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl88
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#C0E6F5;
+	mso-pattern:black none;}
+.xl89
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#C0E6F5;
+	mso-pattern:black none;}
+.xl90
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#FBE2D5;
+	mso-pattern:black none;}
+.xl91
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid #D0D0D0;
+	border-left:1.0pt solid #D0D0D0;
+	background:#E8E8E8;
+	mso-pattern:black none;}
+.xl92
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid #D0D0D0;
+	border-left:.5pt solid white;
+	background:#FBE2D5;
+	mso-pattern:black none;}
+.xl93
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid #D0D0D0;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl94
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid #D0D0D0;
+	border-left:.5pt solid white;
+	background:#FBE2D5;
+	mso-pattern:black none;}
+.xl95
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid white;
+	border-bottom:1.0pt solid #D0D0D0;
+	border-left:.5pt solid white;
+	background:#83E28E;
+	mso-pattern:black none;}
+.xl96
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double white;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:1.0pt solid #D0D0D0;
+	background:#E8E8E8;
+	mso-pattern:black none;}
+.xl97
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double white;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#C1F0C8;
+	mso-pattern:black none;}
+.xl98
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double white;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#83E28E;
+	mso-pattern:black none;}
+.xl99
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double white;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#C1F0C8;
+	mso-pattern:black none;}
+.xl100
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double white;
+	border-right:.5pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl101
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:2.0pt double white;
+	border-right:1.0pt solid white;
+	border-bottom:1.0pt solid white;
+	border-left:.5pt solid white;
+	background:#F7C7AC;
+	mso-pattern:black none;}
+.xl102
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:1.0pt solid #D0D0D0;
+	background:#E8E8E8;
+	mso-pattern:black none;}
+.xl103
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#FBE2D5;
+	mso-pattern:black none;}
+.xl104
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:2.0pt double white;
+	border-left:.5pt solid white;
+	background:#E49EDD;
+	mso-pattern:black none;}
+.xl105
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid white;
+	border-right:1.0pt solid #D0D0D0;
+	border-bottom:.5pt solid white;
+	border-left:none;
+	background:#FBE2D5;
+	mso-pattern:black none;}
+.xl106
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid white;
+	border-right:1.0pt solid #D0D0D0;
+	border-bottom:1.0pt solid #D0D0D0;
+	border-left:none;
+	background:#FBE2D5;
+	mso-pattern:black none;}
+.xl107
+	{mso-style-parent:style0;
+	color:white;
+	text-align:center;
+	border-top:1.0pt solid #D0D0D0;
+	border-right:.5pt solid white;
+	border-bottom:.5pt solid white;
+	border-left:1.0pt solid #D0D0D0;
+	background:#747474;
+	mso-pattern:black none;}
+.xl108
+	{mso-style-parent:style0;
+	color:white;
+	text-align:center;
+	border-top:1.0pt solid #D0D0D0;
+	border-right:1.0pt solid #D0D0D0;
+	border-bottom:.5pt solid white;
+	border-left:.5pt solid white;
+	background:#747474;
+	mso-pattern:black none;}
+.xl109
+	{mso-style-parent:style0;
+	color:white;
+	text-align:center;
+	vertical-align:middle;
+	background:#747474;
+	mso-pattern:black none;}
+.xl110
+	{mso-style-parent:style0;
+	color:white;
+	text-align:center;
+	vertical-align:middle;
+	background:black;
+	mso-pattern:black none;}
+.xl111
+	{mso-style-parent:style0;
+	color:windowtext;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid white;
+	background:#D0D0D0;
+	mso-pattern:black none;
+	white-space:normal;}

@@ -7,4 +7,4 @@
 
 Cómo usarlo: abre la app de Claude → **Code** → repositorio `claude_deporte` y escribe como siempre («hoy hice la A…», adjunta el .fit, «cierra la semana»).
 
-Histórico anterior a la 2026-S40 (PDF de la S39, versiones antiguas del registro): carpeta Deporte de Google Drive, subcarpetas `Archivo` y `Semanas/2026-S39`.
+Histórico (PDF de la S39, versiones antiguas del registro y copia del Drive en el momento de la migración): [`archivo/`](archivo/).

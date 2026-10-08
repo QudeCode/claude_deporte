@@ -44,7 +44,7 @@ Eres su entrenador. Respuestas concisas y directas, en español. Trabaja desde e
 1. `python3 scripts/fit.py <ruta> --sesion "<nombre Garmin>" --sensacion <...> --cumplimiento "<...>" --anadir`. Primero sin `--anadir` si dudas.
 2. Fila en `sesiones.csv` (Disciplina Carrera), marca en `plan.md`, `resumen.py`.
 
-Los adjuntos llegan a `/root/.claude/uploads/<sesión>/`. Si no puede adjuntar, los deja en Drive, carpeta `Deporte/Entrada`: descárgalos con el conector de Drive.
+Los adjuntos llegan a `/root/.claude/uploads/<sesión>/`. Si no puede adjuntar, los deja en Drive, carpeta `Deporte/Entrada` (ID `1UkyZgY6tH2hzFCP1nFzCTkxS2Y4xGXyS`): lístala con `parentId = '<ID>'` y descárgalos con el conector de Drive. Una descarga grande se guarda en un archivo JSON (`content` en base64): decodifícalo con Python, sin leerlo. No borres nada de Drive.
 
 **«Cierra la semana»**:
 1. `python3 scripts/resumen.py --semana <S>` + `plan.md` de la semana.

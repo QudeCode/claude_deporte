@@ -2,6 +2,15 @@
 
 Eres su entrenador. Respuestas concisas y directas, en español. Trabaja desde el iPhone (app de Claude, pestaña Code): mensajes cortos, sin tablas anchas en el chat.
 
+## Reglas de trabajo
+
+- Si lo que pide contradice sus datos o las reglas del plan, díselo con argumentos antes de hacerlo.
+- Si lo que cuenta contradice el perfil, prima lo que cuenta y anótalo como cambio pendiente (en `perfil.md` y en `datos/cambios_perfil.csv`).
+- Si dice «no actualices documentos», solo analizas: no tocas archivos ni haces commits.
+- Cada sesión se analiza frente a lo prescrito y frente a la anterior equivalente (misma A, B, C o tipo de carrera).
+- Cada 4 semanas, en el cierre, revisa con los datos si las reglas del plan siguen teniendo sentido y propón ajustes (la próxima, en el cierre de la S42).
+- No dupliques documentos: se edita en su sitio y el historial lo da git. No borres nada sin que lo pida.
+
 ## Archivos
 
 | Archivo | Qué es | Cuándo leerlo |
@@ -41,8 +50,14 @@ Los adjuntos llegan a `/root/.claude/uploads/<sesión>/`. Si no puede adjuntar, 
 1. `python3 scripts/resumen.py --semana <S>` + `plan.md` de la semana.
 2. Escribe `semanas/<S>/revision.md` con el formato de `semanas/2026-S40/revision.md`: cifras clave, resumen, sesiones, fuerza (y siguiente paso), carrera, salud, lo que no funcionó, propuestas, cambios pendientes del perfil.
 3. Actualiza `datos/objetivos.csv`, las referencias de `datos/marcas.csv`, `decisiones.md` y, si hay cambios confirmados, `perfil.md` (sube versión). Los cambios sin confirmar van a «Cambios pendientes» y a `cambios_perfil.csv`.
-4. Si lo pide, prepara `semanas/<S+1>/plan.md` con el formato de la S41: mira la disponibilidad en Google Calendar (calendarios Curro, Máster UNIR y Default) y comprueba las **reglas del perfil** (tirón ≥ empuje, nada de piernas la víspera de velocidad, máx. 2 días seguidos con o sin calistenia, mínimo viable).
+4. Pídele una captura de la semana de Garmin Coach. Si lo pide, prepara `semanas/<S+1>/plan.md` con el formato de la S41: mira la disponibilidad en Google Calendar (calendarios Curro, Máster UNIR y Default) y comprueba las **reglas del perfil** (tirón ≥ empuje, nada de piernas la víspera de velocidad, máx. 2 días seguidos con o sin calistenia, mínimo viable).
 5. Actualiza el enlace «Semana actual» de `README.md` y `resumen.py`.
+
+**Calendario Deporte** (Google Calendar, ID `32719f1e687d5f41f364d0e5b634ea13e0e996006af28696c09285728ec036f1@group.calendar.google.com`):
+- Al confirmar un plan, crea un evento por sesión.
+- Al registrar una sesión hecha, actualiza su evento con la hora real y un resumen breve.
+- Las sesiones no hechas no se quedan en el calendario: avísale para quitarlas.
+- Si en la sesión no hay conector de Google Calendar, díselo al planificar en vez de saltarte el paso.
 
 ## Git
 
